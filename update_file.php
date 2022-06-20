@@ -7,6 +7,6 @@
 ],
          "title": "ทดสอบแอพ" ,
          "version": 1,
-         "message":"What New?"
+         "message":"test App"
          
 }
