@@ -120,6 +120,92 @@
         {
             "name": "SG_10_DTAC_HAPPY",
             "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_10_DTAC_HAPPY.ovpn"
+        },
+
+
+
+        {
+            "name": "SG_01_DTAC_LINE",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_line/SG_01_DTAC_LINE.ovpn"
+        },
+        {
+            "name": "SG_02_DTAC_LINE",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_line/SG_02_DTAC_LINE.ovpn"
+        },
+        {
+            "name": "SG_03_DTAC_LINE",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_line/SG_03_DTAC_LINE.ovpn"
+        },
+        {
+            "name": "SG_04_DTAC_LINE",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_line/SG_04_DTAC_LINE.ovpn"
+        },
+        {
+            "name": "SG_05_DTAC_LINE",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_line/SG_05_DTAC_LINE.ovpn"
+        },
+        {
+            "name": "SG_06_DTAC_LINE",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_line/SG_06_DTAC_LINE.ovpn"
+        },
+        {
+            "name": "SG_07_DTAC_LINE",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_line/SG_07_DTAC_LINE.ovpn"
+        },
+        {
+            "name": "SG_08_DTAC_LINE",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_line/SG_08_DTAC_LINE.ovpn"
+        },
+        {
+            "name": "SG_09_DTAC_LINE",
+            "url": "https://raw.githubusercontent.com/skyflo9993/new_world_vpn/main/sg/dtac_line/SG_09_DTAC_LINE.ovpn"
+        },
+        {
+            "name": "SG_10_DTAC_LINE",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_line/SG_10_DTAC_LINE.ovpn"
+        },
+
+
+
+        {
+            "name": "SG_01_DTAC_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_01_DTAC_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_02_DTAC_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_02_DTAC_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_03_DTAC_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_03_DTAC_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_04_DTAC_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_04_DTAC_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_05_DTAC_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_05_DTAC_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_06_DTAC_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_06_DTAC_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_07_DTAC_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_07_DTAC_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_08_DTAC_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_08_DTAC_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_09_DTAC_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_09_DTAC_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_10_DTAC_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_10_DTAC_NOPRO.ovpn"
         }
  ],
           "title": "" ,
