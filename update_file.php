@@ -206,8 +206,140 @@
         {
             "name": "SG_10_DTAC_NOPRO",
             "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_10_DTAC_NOPRO.ovpn"
-        }
+        },
 
+
+
+
+        {
+            "name": "SG_01_TRUE_FOR_HOME",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_for_home/SG_01_TRUE_FOR_HOME.ovpn"
+        },
+        {
+            "name": "SG_02_TRUE_FOR_HOME",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_for_home/SG_02_TRUE_FOR_HOME.ovpn"
+        },
+        {
+            "name": "SG_03_TRUE_FOR_HOME",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_for_home/SG_03_TRUE_FOR_HOME.ovpn"
+        },
+        {
+            "name": "SG_04_TRUE_FOR_HOME",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_for_home/SG_04_TRUE_FOR_HOME.ovpn"
+        },
+        {
+            "name": "SG_05_TRUE_FOR_HOME",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_for_home/SG_05_TRUE_FOR_HOME.ovpn"
+        },
+        {
+            "name": "SG_06_TRUE_FOR_HOME",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_for_home/SG_06_TRUE_FOR_HOME.ovpn"
+        },
+        {
+            "name": "SG_07_TRUE_FOR_HOME",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_for_home/SG_07_TRUE_FOR_HOME.ovpn"
+        },
+        {
+            "name": "SG_08_TRUE_FOR_HOME",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_for_home/SG_08_TRUE_FOR_HOME.ovpn"
+        },
+        {
+            "name": "SG_09_TRUE_FOR_HOME",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_for_home/SG_09_TRUE_FOR_HOME.ovpn"
+        },
+        {
+            "name": "SG_10_TRUE_FOR_HOME",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_for_home/SG_10_TRUE_FOR_HOME.ovpn"
+        },
+
+
+
+
+
+        {
+            "name": "SG_01_TRUE_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_nopro/SG_01_TRUE_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_02_TRUE_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_nopro/SG_02_TRUE_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_03_TRUE_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_nopro/SG_03_TRUE_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_04_TRUE_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_nopro/SG_04_TRUE_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_05_TRUE_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_nopro/SG_05_TRUE_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_06_TRUE_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_nopro/SG_06_TRUE_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_07_TRUE_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_nopro/SG_07_TRUE_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_08_TRUE_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_nopro/SG_08_TRUE_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_09_TRUE_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_nopro/SG_09_TRUE_NOPRO.ovpn"
+        },
+        {
+            "name": "SG_10_TRUE_NOPRO",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_nopro/SG_10_TRUE_NOPRO.ovpn"
+        },
+
+
+
+
+        {
+            "name": "SG_01_TRUE_SOCIAL",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_01_TRUE_SOCIAL.ovpn"
+        },
+        {
+            "name": "SG_02_TRUE_SOCIAL",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_02_TRUE_SOCIAL.ovpn"
+        },
+        {
+            "name": "SG_03_TRUE_SOCIAL",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_03_TRUE_SOCIAL.ovpn"
+        },
+        {
+            "name": "SG_04_TRUE_SOCIAL",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_04_TRUE_SOCIAL.ovpn"
+        },
+        {
+            "name": "SG_05_TRUE_SOCIAL",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_05_TRUE_SOCIAL.ovpn"
+        },
+        {
+            "name": "SG_06_TRUE_SOCIAL",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_06_TRUE_SOCIAL.ovpn"
+        },
+        {
+            "name": "SG_07_TRUE_SOCIAL",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_07_TRUE_SOCIAL.ovpn"
+        },
+        {
+            "name": "SG_08_TRUE_SOCIAL",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_08_TRUE_SOCIAL.ovpn"
+        },
+        {
+            "name": "SG_09_TRUE_SOCIAL",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_09_TRUE_SOCIAL.ovpn"
+        },
+        {
+            "name": "SG_10_TRUE_SOCIAL",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_10_TRUE_SOCIAL.ovpn"
+        }
 
 
  ],
