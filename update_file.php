@@ -35,6 +35,48 @@
         {
             "name": "TH_1_TRUE_SOCIAL",
             "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/inet/TRUE_SOCIAL.ovpn"
+        },
+
+
+        {
+            "name": "SG_01_AIS",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_01_AIS.ovpn"
+        },
+        {
+            "name": "SG_02_AIS",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_02_AIS.ovpn"
+        },
+        {
+            "name": "SG_03_AIS",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_03_AIS.ovpn"
+        },
+        {
+            "name": "SG_04_AIS",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_04_AIS.ovpn"
+        },
+        {
+            "name": "SG_05_AIS",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_05_AIS.ovpn"
+        },
+        {
+            "name": "SG_06_AIS",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_06_AIS.ovpn"
+        },
+        {
+            "name": "SG_07_AIS",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_07_AIS.ovpn"
+        },
+        {
+            "name": "SG_08_AIS",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_08_AIS.ovpn"
+        },
+        {
+            "name": "SG_09_AIS",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_09_AIS.ovpn"
+        },
+        {
+            "name": "SG_10_AIS",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_10_AIS.ovpn"
         }
  ],
           "title": "" ,
