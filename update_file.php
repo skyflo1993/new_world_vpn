@@ -158,7 +158,7 @@
         },
         {
             "name": "SG_09_DTAC_LINE",
-            "url": "https://raw.githubusercontent.com/skyflo9993/new_world_vpn/main/sg/dtac_line/SG_09_DTAC_LINE.ovpn"
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_line/SG_09_DTAC_LINE.ovpn"
         },
         {
             "name": "SG_10_DTAC_LINE",
@@ -207,6 +207,9 @@
             "name": "SG_10_DTAC_NOPRO",
             "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_nopro/SG_10_DTAC_NOPRO.ovpn"
         }
+
+
+
  ],
           "title": "" ,
           "version": 1,
