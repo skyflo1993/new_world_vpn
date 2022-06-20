@@ -77,6 +77,49 @@
         {
             "name": "SG_10_AIS",
             "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/ais/SG_10_AIS.ovpn"
+        },
+
+
+
+        {
+            "name": "SG_01_DTAC_HAPPY",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_01_DTAC_HAPPY.ovpn"
+        },
+        {
+            "name": "SG_02_DTAC_HAPPY",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_02_DTAC_HAPPY.ovpn"
+        },
+        {
+            "name": "SG_03_DTAC_HAPPY",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_03_DTAC_HAPPY.ovpn"
+        },
+        {
+            "name": "SG_04_DTAC_HAPPY",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_04_DTAC_HAPPY.ovpn"
+        },
+        {
+            "name": "SG_05_DTAC_HAPPY",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_05_DTAC_HAPPY.ovpn"
+        },
+        {
+            "name": "SG_06_DTAC_HAPPY",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_06_DTAC_HAPPY.ovpn"
+        },
+        {
+            "name": "SG_07_DTAC_HAPPY",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_07_DTAC_HAPPY.ovpn"
+        },
+        {
+            "name": "SG_08_DTAC_HAPPY",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_08_DTAC_HAPPY.ovpn"
+        },
+        {
+            "name": "SG_09_DTAC_HAPPY",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_09_DTAC_HAPPY.ovpn"
+        },
+        {
+            "name": "SG_10_DTAC_HAPPY",
+            "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/dtac_happy/SG_10_DTAC_HAPPY.ovpn"
         }
  ],
           "title": "" ,
