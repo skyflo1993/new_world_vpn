@@ -315,9 +315,21 @@
     {
       "name": "SG_10_TRUE_SOCIAL",
       "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/sg/true_social/SG_10_TRUE_SOCIAL.ovpn"
+    },
+    {
+      "name": "TH_VIP_AIS_GAMING_ZCOM",
+      "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/zcom/TH_VIP_AIS_GAMING_ZCOM.ovpn"
+    },
+    {
+      "name": "TH_VIP_DTAC_GAMING_ZCOM",
+      "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/zcom/TH_VIP_DTAC_GAMING_ZCOM.ovpn"
+    },
+    {
+      "name": "TH_VIP_TRUE_GAMING_ZCOM",
+      "url": "https://raw.githubusercontent.com/skyflo1993/new_world_vpn/main/zcom/TH_VIP_TRUE_GAMING_ZCOM.ovpn"
     }
   ],
   "title": "",
   "version": 4,
-  "message": "อัพเดตไฟล์ใหม่บนแอพเวอร์ชั่นใหม่\nโปรดอัพเดตแอปให้เป็นเวอร์ชั่นล่าสุด\n\n✍️แก้ไขปรับปรุงไฟล์เซิฟเวอร์เมื่อ 22:20 น. 10/07/2022"
+  "message": "เพิ่มเซิร์ฟเวอร์ไทย VIP ZCOM GAMING\nสำหรับเล่นเกมส์โดยเฉพาะ\n\n✍️แก้ไขปรับปรุงไฟล์เซิฟเวอร์เมื่อ 22:35 น. 18/07/2022"
 }
