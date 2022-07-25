@@ -331,5 +331,5 @@
   ],
   "title": "",
   "version": 5,
-  "message": "เพิ่มเซิร์ฟเวอร์ไทย VIP ZCOM GAMING\nสำหรับเล่นเกมส์โดยเฉพาะ\nโปรดอัพเดทแอพเป็นเวอร์ชั่น 3.0.4 ก่อน\nคุณถึงจะเจอชื่อรหัสสำหรับเข้าใช้งานเซิร์ฟเวอร์ฟรี vip ที่หน้าติดตามข่าวสาร\n\n✍️แก้ไขปรับปรุงไฟล์เซิฟเวอร์เมื่อ 07:30 น. 19/07/2022\n\nAdded a Thai server VIP ZCOM GAMING\nDedicated to play games\nPlease update the app to version 3.0.4 first\nYou will find the codename for free vip server access on the news page\n\n✍️Edit  File server update at 07:30 19/07/2022"
+  "message": "เพิ่มเซิร์ฟเวอร์ไทย VIP ZCOM GAMING\nสำหรับเล่นเกมส์โดยเฉพาะ\nโปรดอัพเดทแอพเป็นเวอร์ชั่น 3.0.5 ก่อน\nคุณถึงจะเจอชื่อรหัสสำหรับเข้าใช้งานเซิร์ฟเวอร์ฟรี vip ที่หน้าติดตามข่าวสาร\n\n✍️แก้ไขปรับปรุงไฟล์เซิฟเวอร์เมื่อ 07:30 น. 19/07/2022\n\nAdded a Thai server VIP ZCOM GAMING\nDedicated to play games\nPlease update the app to version 3.0.5 first\nYou will find the codename for free vip server access on the news page\n\n✍️Edit  File server update at 07:30 19/07/2022"
 }
